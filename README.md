@@ -20,3 +20,6 @@ Los resultados del modelo se presentan en el Jupyter Notebook, incluyendo:
 - Un gráfico de dispersión de los valores reales vs. predichos de presión sonora.
 
 **Documentos incluídos en este repositorio:**
+- [Reporte en formato ipynb](./MLR_Sound_Prediction.ipynb)
+- [Reporte en formato html](./LR_Sound_Prediction.html)
+- [Base de datos](./data.csv)
