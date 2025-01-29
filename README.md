@@ -21,5 +21,5 @@ Los resultados del modelo se presentan en el Jupyter Notebook, incluyendo:
 
 **Documentos incluídos en este repositorio:**
 - [Reporte en formato ipynb](./MLR_Sound_Prediction.ipynb)
-- [Reporte en formato html](./LR_Sound_Prediction.html)
+- [Reporte en formato html](./MLR_Sound_Prediction.html)
 - [Base de datos](./data.csv)
